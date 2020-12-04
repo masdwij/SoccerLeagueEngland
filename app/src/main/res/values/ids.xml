@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cardku" type="id"></item>
+    <item name="ivprofile" type="id"></item>
+    <item name="tvname" type="id"></item>
+    <item name="tvdesc" type="id"></item>
+    <item name="txtcountry" type="id"></item>
+    <item name="tvjudul" type="id" />
+    <item name="txtdeskripsi" type="id" />
+    <item name="ivposter" type="id" />
+    <item name="txtwebsite" type="id" />
+    <item name="txtfacebook" type="id" />
+    <item name="txttwitter" type="id" />
+    <item name="txtinstagram" type="id" />
+    <item name="txtyear" type="id" />
+    <item name="btnbookmark" type="id" />
+    <item name="rvdata" type="id" />
+    <item name="tvnodata" type="id" />
+    <item name="txtusername" type="id" />
+    <item name="txtpassword" type="id" />
+    <item name="btnlogin" type="id" />
+    <item name="menu1" type="id" />
+    <item name="menu2" type="id" />
+</resources>
